@@ -3,9 +3,9 @@
 This is python code to compute a Shapley Value of a `characteristic form game`.  
 
 ## Run
-`python shapley.py <filename>`  
+`python2 shapley.py <inputfilename>`  
 
-## Input Format
+## Input File Format
 
 `N = n`
 
@@ -17,4 +17,4 @@ This is python code to compute a Shapley Value of a `characteristic form game`.
 
 `TestCases/divide_dollar` file has been provided which is for the `Divide the Dollar version 2` game from Prof. Y. Narahari's Game Theory lecture notes <http://lcm.csa.iisc.ernet.in/gametheory/ln/web-cp3-TUgames.pdf>
 
-There are many other test files in the `TestCases` directory
+There are many other input test files in the `TestCases` directory
